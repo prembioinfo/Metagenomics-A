@@ -32,4 +32,4 @@ Oops! I know this was way too long :eyes: But the main purpose to explain this w
 Thank you for your patience and time!
 Have a great day!🤗
 
-![alt text]()
+![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/Flowchart.png)
