@@ -5,7 +5,7 @@
 
 Spare some time to read this and make sure to peep into our work design. Trust us, you won't regret it!🤔
 
-Before we start. We want to ask you some questions. Do you know why microbes are so important? :thinking_face:
+Before we start. We want to ask you some questions. Do you know why microbes are so important? 🤔
 Though, we can't see them through our normal eyes, still they hold an important place in this world. Why?🤔
 
 Are you going to say that they are important because they are the oldest inhabitants of this planet or are very popular as they are found everywhere? :sweat_smile:
@@ -14,7 +14,7 @@ Even if they are everywhere from the deep sea vents to the cold ice caps of Anta
 They are important because our very own wellbeing is dependent on them. There are millions of these tiny creatures present in our skin, gut, intestine etc. :microbe:
 When they are happy, you and your health are happy. When they are provoked or distured then be prepared to rush to a doctor dear :runner:
 
-Then how can we study them? Follow the old rules : Culture them and observe. Nah, that's not always a good idea because not all bacterial species are culturable. Many need special conditions to thrive. Then :thinking_face: Don't worry, we live in the 21st century! :partying_face: And here comes this amazing field named 'Metagenomics'!🌟
+Then how can we study them? Follow the old rules : Culture them and observe. Nah, that's not always a good idea because not all bacterial species are culturable. Many need special conditions to thrive. Then🤔 Don't worry, we live in the 21st century! :partying_face: And here comes this amazing field named 'Metagenomics'!🌟
 
 Due to the advancement in sequencing technologies, we can now directly collect samples from different environments and sequence it in one go. Then the data that you have obtained can help you to analyse, characterize, and predict the microbial population with their role in that environment.:raised_hands:
 
