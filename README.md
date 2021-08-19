@@ -5,7 +5,7 @@
 ![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/METAGENOMICS.gif)
 Spare some time to read this and make sure to peep into our work design. Trust us, you won't regret it!🤔
 
-Instructions will added soon!!
+*Instructions will added soon!!*
 
 
 Thank you for your patience and time!
