@@ -2,7 +2,7 @@
 
 ## Bonjour from Team Metagenomics Group A! :handshake:
 
-
+![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/METAGENOMICS.gif)
 Spare some time to read this and make sure to peep into our work design. Trust us, you won't regret it!🤔
 
 Before we start. We want to ask you some questions. Do you know why microbes are so important? 🤔
