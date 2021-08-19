@@ -1,4 +1,4 @@
-# Metagenomics-A
+# <p align="center"> Hackbio Metagenomics-A😎
 
 ## Bonjour from Team Metagenomics Group A! :handshake:
 
