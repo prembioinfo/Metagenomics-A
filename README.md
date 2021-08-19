@@ -1,6 +1,8 @@
 # <p align="center"> Hackbio Metagenomics-A😎
 
 ## Bonjour from Team Metagenomics Group A! :handshake:
+  
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prembioinfo.Metagenomics-A)
 
 ![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/METAGENOMICS.gif)
 Spare some time to read this and make sure to peep into our work design. Trust us, you won't regret it!🤔
