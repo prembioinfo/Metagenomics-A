@@ -32,14 +32,16 @@ Or,
 Import via links
 Copy the links location:
 
-https://zenodo.org/record/3247504/files/RB01.fasta<br />
-https://zenodo.org/record/3247504/files/RB02.fasta<br />
-https://zenodo.org/record/3247504/files/RB03.fasta<br />
-https://zenodo.org/record/3247504/files/RB04.fasta<br />
-https://zenodo.org/record/3247504/files/RB05.fasta<br />
-https://zenodo.org/record/3247504/files/RB06.fasta<br />
-https://zenodo.org/record/3247504/files/RB07.fasta<br />
-https://zenodo.org/record/3247504/files/RB08.fasta
+| Samples | Species                 | Plasmid profile (kb)  | Links                                              |
+|---------|-------------------------|-----------------------|----------------------------------------------------|
+| RB01    | Escherichia coli        | 150,100               | https://zenodo.org/record/3247504/files/RB01.fasta |
+| RB02    | Escherichia coli        | 160, 135, 100, 60, 40 | https://zenodo.org/record/3247504/files/RB02.fasta |
+| RB03    | Escherichia coli        | 330, 60               | https://zenodo.org/record/3247504/files/RB03.fasta |
+| RB04    | Escherichia coli        | 110, 130, 230         | https://zenodo.org/record/3247504/files/RB04.fasta |
+| RB05    | Escherichia coli        | 150                   | https://zenodo.org/record/3247504/files/RB05.fasta |
+| RB06    | Escherichia coli        | 250                   | https://zenodo.org/record/3247504/files/RB06.fasta |
+| RB07    | Vibrio parahaemolyticus | 120                   | https://zenodo.org/record/3247504/files/RB07.fasta |
+| RB08    | Salmonella typhimurium  | 340                   | https://zenodo.org/record/3247504/files/RB08.fasta |
 
 Open the Galaxy Upload Manager (galaxy-upload on the top-right of the tool panel) and Select Paste/Fetch Data and copy those above link to retreive input data.<br />
 (Tips: Creating a dataset collection - Click on Operations on multiple datasets (check box icon) at the top of the history panel > Check all the datasets in your history you would like to include > Click For all selected and choose Build dataset list > Enter a name for your collection > Click Create List to build your collection > Click on the checkmark icon at the top of your history again.)
