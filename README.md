@@ -12,6 +12,7 @@ We replicated the galaxy tutorial for the detection of antibiotic resistance: ht
 ## Ppt For Introduction:
 	
 Click here to view the Powerpoint Presentation > [Presentation](https://github.com/prembioinfo/Metagenomics-A/blob/main/Metagenomics%20Group%20A.ppt)
+
 Click on view raw > To Watch The Presentation 
 	
 + **Objective of the work:**
