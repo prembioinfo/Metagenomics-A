@@ -200,7 +200,6 @@ Have a great day!🤗
 ![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/Flowchart.png)
 	
 ### References
-References:
 1. Antibiotic resistance detection. Galaxy Training by AvatarWillem de Koning AvatarSaskia Hiltemann.
 2. Li, R., Xie, M., Dong, N., Lin, D., Yang, X., Wong, M. H. Y., ... & Chen, S. (2018). Efficient generation of complete sequences of MDR-encoding plasmids by rapid assembly of MinION barcoding sequencing data. Gigascience, 7(3), gix132.
 3. Wick, R. R., M. B. Schultz, J. Zobel, and K. E. Holt, 2015 Bandage: interactive visualization of de novo genome assemblies. Bioinformatics 31: 3350–3352. 10.1093/bioinformatics/btv383
