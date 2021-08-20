@@ -164,10 +164,34 @@ Click Execute.
 - Use the summary file to search the database to get more information about the obtained antibiotic resistant genes. Hence head towards the CARD database (Comprehensive Antibiotic Resistance Database). 
 
 **Analyze the results.**
-  
-  
- 
+	
+## Contributors:
 
+We created 4 subgroups to distribute the analysis of the total 8 datasets. The datasets contained raw long sequencing data (reads), sequenced by the Nanopore MinION sequencer, extracted from different MDR plasmid-bearing bacterial strains. (Li et al. 2018) Each subgroup worked with 2 datasets and analysed it following the steps mentioned in the referenced galaxy tutorial. The steps for the analysis was distributed among each member according to the subgroup.
+
+  
+| Name                    | Slack ID       | Email Id (Galaxy)                          |
+|-------------------------|----------------|--------------------------------------------|
+| Priyanka Singh          | @Decoder       | priyankathedecoder@gmail.com               |
+| Premnath                | @Premnath      | batchaamadan17@gmail.com                   |
+| Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  |
+| Sneha Das               | @Snehabioinfo  | snneha26@gmail.com                         |
+| Priyanka Mishra         | @Priyanka      | priyankam9998@gmail.com                    |
+| Isha Barve              | @WandaMaximoff | isha.barve0@gmail.com                      |
+| Morali Shah             | @morali        | shahmorali@gmail.com                       |
+| Akanksha Kulkarni       | @MoonlitRose99 | gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in |
+| Kartik A. Sawant        | @Venomm        | kartikatulsawant14@gmail.com               |
+| Devika Kaliana          | @BARBARELLA    | devikakaliana94@gmail.com                  |
+| Aishatu Muhammad Malami | @AishatuMM     | ummiamal@gmail.com                         |
+| Halak Shukla            | @Halak         | halakshukla0101@gmail.com                  |
+| Lakshini Kannan         | @Lakshini      | lakshinikannan@gmail.com                   |
+| Prathyusha Cota         | @Prathyusha    | Prathyushacota@gmail.com                   |
+| Shabnam S               | @Shabnam       | shab31201@gmail.com                        |
+| Rafat Omar              | @RafatOmar     | rafat.0mar@outlook.com                     |
+| Marwa Amer              | @Marwa         | marwa.amer@must.edu.eg                     |
+| Nadeen Esmail           | @Nadeen        | nadeenesmail4@gmail.com                    |
+| Ojonugwa Abubakar       | @ojay          | otabu01@gmail.com                          |
+ 
 Thank you for your patience and time!
 Have a great day!🤗
 
