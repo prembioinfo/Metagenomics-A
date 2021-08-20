@@ -53,6 +53,117 @@ Set Parameters: Select "multifile mode” to batch
 “files” to  The Plasmids dataset collection you had created.
 Click Execute.
 ```
+## Step 3 - De-novo Assembly: Pairwise alignment using Map with minimap2 tool
+- Search for Map with minimap2 Tool in the search box present on the left side:
+```
+Set Parameters:
+Select 
+“Will you select a reference genome from your history or use a built-in index?” to Use a genome from history and build index
+“Use the following data collection as the reference sequence” to Plasmids dataset collection you had created.
+“Single or Paired-end reads” to Single
+“Select fastq dataset” to The Plasmids dataset collection
+“Select a profile of preset options” to Oxford Nanopore all-vs-all overlap mapping
+In the section Set advanced output options: “Select an output format” to paf
+Click Execute.
+```
+## Step 4 - Ultrafast de novo assembly: using Miniasm tool
+- Search for Miniasm Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Sequence Reads” to The Plasmids dataset collection
+“PAF file” to Output Minimap dataset collection created by Minimap2 tool
+Click Execute.
+```
+## Step 5 - Remapping: First convert the Assembly Graph (collection) created previously by Miniasm using GFA to Fasta tool then perform pairwise sequence alignment again using Map with minimap2 tool
+
+- Search for GFA to Fasta Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Input GFA file” to the Assembly Graph (collection) created by Miniasm
+Click Execute. 
+```
+- Search for Map with minimap2 Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Will you select a reference genome from your history or use a built-in index?” to Use a genome from history and build index
+“Use the following dataset as the reference sequence” to FASTA file output from GFA to Fasta tool (collection)
+“Single or Paired-end reads” to single
+“Select fastq dataset” to The Plasmids collection
+“Select a profile of preset options” to PacBio/Oxford Nanopore read to reference mapping (-Hk19)
+In the section Set advanced output options:
+“Select an output format” to paf
+Click Execute.
+
+```
+
+## Step 6: Ultrafast consensus module using Racon tool
+- Search for Racon Tool in the search box present on the left side:
+```
+Set Parameters:
+ Select
+“Sequences” to The Plasmids dataset collection
+“Overlaps” to the latest PAF file collection created by Minimap2 tool
+“Target sequences” to the FASTA file collection created by GFA to Fasta tool.
+Click Execute.
+
+```
+## Step 7: Visualize the assemblies using Bandage image tool
+- Search for Bandage image Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Graphical Fragment Assembly” to the Assembly graph collection created by Miniasm tool
+Click Execute.
+
+```
+- Explore galaxy-eye for  the output images.
+
+## Step 8: Optimizing assemblies using Create assemblies with Unicycler tool and again visualize using Bandage image tool
+- Search for Create assemblies with Unicycler Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Paired or Single end data” to None
+“Select long reads. If there are no long reads, leave this empty” to The Plasmids dataset collection
+Click Execute.
+
+```
+- Search for Bandage image Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Graphical Fragment Assembly” to the Final Assembly Graph collection created by Unicycler tool
+Click Execute. 
+
+```
+- Explore galaxy-eye for  the output images again.
+- Use the Scratchbook (galaxy-scratchbook) to compare the  assemblies for the Bandage tool images for the assemblies: The assembly that you got from running minimap2, miniasm, racon tool (first time you ran bandage) with the assembly obtained with Unicycler tool.
+## Step 9: Prediction of plasmid sequences and classes using PlasFlow tool
+- Search for PlasFlow Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“Sequence Reads” to the Final Assembly collection created by Unicycler
+Click Execute.
+
+```
+
+## Step 10: Scanning of genome contigs for antimicrobial resistance genes using staramr tool
+- Search for staramr Tool in the search box present on the left side:
+```
+Set Parameters:
+Select
+“genomes” to the Final Assembly collection created by Unicycler
+Click Execute.
+
+```
+## Step 11: Extract more information using CARD database (Comprehensive Antibiotic Resistance Database)
+- Use the summary file to search the database to get more information about the obtained antibiotic resistant genes. Hence head towards the CARD database (Comprehensive Antibiotic Resistance Database). 
+
+**Analyze the results.**
 
 
   
