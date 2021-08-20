@@ -171,7 +171,8 @@ Click Execute.
 ## Step 11: Extract more information using CARD database (Comprehensive Antibiotic Resistance Database)
 - Use the summary file to search the database to get more information about the obtained antibiotic resistant genes. Hence head towards the CARD database (Comprehensive Antibiotic Resistance Database). 
 
-**Analyze the results.**
+**Analyze the results:** [Results Drive](https://docs.google.com/document/d/1QLVL23dSNJo0xh7XQR0zNEf6QSbzRufTEeWCg6g2f3s/edit?usp=drivesdk) 
+	
 	
 ## Contributors:
 
