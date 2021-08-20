@@ -1,0 +1,48 @@
+Datasets,Task Performed ,Galaxy History Link of the results,Name of the Person 
+RB01 & RB02,Creating a history and building a list collection for the datasets by importing those datasets in history,https://usegalaxy.eu/u/ishabarve/h/imported-imported-imported-imported-imported-imported-imported-imported-imported-metagenomics--group-isha,Isha Barve
+,Quality Control: using NanoPlot tool to explore the datasets,,Morali Shah
+,De-novo Assembly: Pairwise alignment using Map with minimap2 tool,,Akanksha Kulkarni
+,Ultrafast de novo assembly: using Miniasm tool,,Isha Barve
+,Remapping: First convert the Assembly Graph (collection) created previously by Miniasm using GFA to Fasta tool then perform pairwise sequence alignment again using Map with minimap2 tool,,Isha Barve
+,Ultrafast consensus module using Racon tool,,Kartik A. Sawant
+,Visualize the assemblies using Bandage image tool,,Isha Barve
+,Optimizing assemblies using Create assemblies with Unicycler tool and again visualize using Bandage image tool,,Devika Kaliana
+,Prediction of plasmid sequences and classes using PlasFlow tool,,Morali Shah
+,Scanning of genome contigs for antimicrobial resistance genes using staramr tool.,,Devika Kaliana
+,Extract more information using CARD database,,Kartik A. Sawant
+,,,
+RB03 & RB04,Creating a history and building a list collection for the datasets by importing those datasets in history,https://usegalaxy.eu/u/priyankathedecoder/h/imported-imported-imported-imported-hackbio-internship-2021,Rishikesh Dash
+,Quality Control: using NanoPlot tool to explore the datasets,,Rishikesh Dash
+,De-novo Assembly: Pairwise alignment using Map with minimap2 tool,,Sneha Das
+,Ultrafast de novo assembly: using Miniasm tool,,Sneha Das
+,Remapping: First convert the Assembly Graph (collection) created previously by Miniasm using GFA to Fasta tool then perform pairwise sequence alignment again using Map with minimap2 tool,,Aishatu Muhammad Malami
+,Ultrafast consensus module using Racon tool,,Aishatu Muhammad Malami
+,Visualize the assemblies using Bandage image tool,,Priyanka Mishra
+,Optimizing assemblies using Create assemblies with Unicycler tool and again visualize using Bandage image tool,,Priyanka Mishra
+,Prediction of plasmid sequences and classes using PlasFlow tool,,Priyanka Singh
+,Scanning of genome contigs for antimicrobial resistance genes using staramr tool.,,Priyanka Singh
+,Extract more information using CARD database,,Priyanka Singh
+,,,
+RB05 & RB06,Creating a history and building a list collection for the datasets by importing those datasets in history,https://usegalaxy.eu/u/shabs--/h/-hackbio-internship-2021---metagenomics-a,Premnath
+,Quality Control: using NanoPlot tool to explore the datasets,,Halak Shukla
+,De-novo Assembly: Pairwise alignment using Map with minimap2 tool,,Lakshini Kannan
+,Ultrafast de novo assembly: using Miniasm tool,,Lakshini Kannan
+,Remapping: First convert the Assembly Graph (collection) created previously by Miniasm using GFA to Fasta tool then perform pairwise sequence alignment again using Map with minimap2 tool,,Prathyusha Cota
+,Ultrafast consensus module using Racon tool,,Prathyusha Cota
+,Visualize the assemblies using Bandage image tool,,Premnath
+,Optimizing assemblies using Create assemblies with Unicycler tool and again visualize using Bandage image tool,,Premnath
+,Prediction of plasmid sequences and classes using PlasFlow tool,,Shabnam S
+,Scanning of genome contigs for antimicrobial resistance genes using staramr tool.,,Shabnam S
+,Extract more information using CARD database,,Shabnam S
+,,,
+RB07 & RB08,Creating a history and building a list collection for the datasets by importing those datasets in history,https://usegalaxy.eu/u/ojonugwa/h/imported-metagenomic-project,Rafat Omar
+,Quality Control: using NanoPlot tool to explore the datasets,,Rafat Omar
+,De-novo Assembly: Pairwise alignment using Map with minimap2 tool,,Rafat Omar
+,Ultrafast de novo assembly: using Miniasm tool,,Marwa Amer
+,Remapping: First convert the Assembly Graph (collection) created previously by Miniasm using GFA to Fasta tool then perform pairwise sequence alignment again using Map with minimap2 tool,,Marwa Amer
+,Ultrafast consensus module using Racon tool,,Marwa Amer
+,Visualize the assemblies using Bandage image tool,,Nadeen Esmail
+,Optimizing assemblies using Create assemblies with Unicycler tool and again visualize using Bandage image tool,,Nadeen Esmail
+,Prediction of plasmid sequences and classes using PlasFlow tool,,Nadeen Esmail
+,Scanning of genome contigs for antimicrobial resistance genes using staramr tool.,,Ojonugwa Abubakar
+,Extract more information using CARD database,,Ojonugwa Abubakar
