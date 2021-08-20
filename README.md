@@ -8,7 +8,9 @@ Spare some time to read this and make sure to peep into our work design. Trust u
  
 # <p align="center"> Metagenomic data analysis to detect antimicrobial resistance gene
 We replicated the galaxy tutorial for the detection of antibiotic resistance: https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html
-  
+
+Ppt For Introduction:
+	
 + **Objective of the work:**
   * Perform Quality control on your reads
   * Assemble the genome
