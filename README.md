@@ -198,3 +198,21 @@ Thank you for your patience and time!
 Have a great day!🤗
 
 ![alt text](https://github.com/prembioinfo/Metagenomics-A/blob/main/Flowchart.png)
+	
+### References
+References:
+1. Antibiotic resistance detection. Galaxy Training by AvatarWillem de Koning AvatarSaskia Hiltemann.
+2. Li, R., Xie, M., Dong, N., Lin, D., Yang, X., Wong, M. H. Y., ... & Chen, S. (2018). Efficient generation of complete sequences of MDR-encoding plasmids by rapid assembly of MinION barcoding sequencing data. Gigascience, 7(3), gix132.
+3. Wick, R. R., M. B. Schultz, J. Zobel, and K. E. Holt, 2015 Bandage: interactive visualization of de novo genome assemblies. Bioinformatics 31: 3350–3352. 10.1093/bioinformatics/btv383
+4. Li, H., 2016 Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences. Bioinformatics 32: 2103–2110. 10.1093/bioinformatics/btw152
+5. Jia, B., A. R. Raphenya, B. Alcock, N. Waglechner, P. Guo et al., 2016 CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database. Nucleic Acids Research 45: D566–D573. 10.1093/nar/gkw1004
+6. Vaser, R., I. Sović, N. Nagarajan, and M. Šikić, 2017 Fast and accurate de novo genome assembly from long uncorrected reads. Genome Research 27: 737–746. 10.1101/gr.214270.116
+7. Wick, R. R., L. M. Judd, C. L. Gorrie, and K. E. Holt, 2017 Unicycler: Resolving bacterial genome assemblies from short and long sequencing reads (A. M. Phillippy, Ed.). PLOS Computational Biology 13: e1005595. 10.1371/journal.pcbi.1005595.
+8. Krawczyk, P. S., L. Lipinski, and A. Dziembowski, 2018 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures. Nucleic Acids Research 46: e35–e35. 10.1093/nar/gkx1321.
+9. Coster, W. D., S. D’Hert, D. T. Schultz, M. Cruts, and C. V. Broeckhoven, 2018 NanoPack: visualizing and processing long-read sequencing data (B. Berger, Ed.). Bioinformatics 34: 2666–2669. 10.1093/bioinformatics/bty149.
+10. Li, H., 2018 Minimap2: pairwise alignment for nucleotide sequences (I. Birol, Ed.). Bioinformatics 34: 3094–3100. 10.1093/bioinformatics/bty191.
+11. Maio, N. D., L. P. Shaw, A. Hubbard, S. George, N. Sanderson et al., 2019 Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes. 10.1101/530824.
+12. Zankari E, Hasman H, Cosentino S, Vestergaard M, Rasmussen S, Lund O, Aarestrup FM, Larsen MV. 2012. Identification of acquired antimicrobial resistance genes. J. Antimicrob. Chemother. 67:2640–2644. doi: 10.1093/jac/dks261
+13. Zankari E, Allesøe R, Joensen KG, Cavaco LM, Lund O, Aarestrup F. PointFinder: a novel web tool for WGS-based detection of antimicrobial resistance associated with chromosomal point mutations in bacterial pathogens. J Antimicrob Chemother. 2017; 72(10): 2764–8. doi: 10.1093/jac/dkx217
+14. Carattoli A, Zankari E, Garcia-Fernandez A, Voldby Larsen M, Lund O, Villa L, Aarestrup FM, Hasman H. PlasmidFinder and pMLST: in silico detection and typing of plasmids. Antimicrob. Agents Chemother. 2014. April 28th. doi: 10.1128/AAC.02412-14
+
