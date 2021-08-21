@@ -176,30 +176,39 @@ Click Execute.
 	
 ## Contributors:
 
-We created 4 subgroups to distribute the analysis of the total 8 datasets. The datasets contained raw long sequencing data (reads), sequenced by the Nanopore MinION sequencer, extracted from different MDR plasmid-bearing bacterial strains. (Li et al. 2018) Each subgroup worked with 2 datasets and analysed it following the steps mentioned in the referenced galaxy tutorial. The steps for the analysis was distributed among each member according to the subgroup. **Click here to view the detailed contribution report > [Contributors](https://github.com/prembioinfo/Metagenomics-A/blob/main/Contibution%20details.csv)** / **[Excel sheet](https://docs.google.com/spreadsheets/d/134Q7xUCsF2b_8cT4EXj4VLylOvArraN_vLcp5G_0UhI/edit?usp=drivesdk)**
+We created 4 subgroups to distribute the analysis of the total 8 datasets. The datasets contained raw long sequencing data (reads), sequenced by the Nanopore MinION sequencer, extracted from different MDR plasmid-bearing bacterial strains. (Li et al. 2018) Each subgroup worked with 2 datasets and analysed it following the steps mentioned in the referenced galaxy tutorial. The steps for the analysis was distributed among each member according to the subgroup. **Click here to view the detailed contribution report >**[Excel sheet](https://docs.google.com/spreadsheets/d/134Q7xUCsF2b_8cT4EXj4VLylOvArraN_vLcp5G_0UhI/edit?usp=drivesdk)**
 
   
-| Name                    | Slack ID       | Email Id (Galaxy)                          |
-|-------------------------|----------------|--------------------------------------------|
-| Priyanka Singh          | @Decoder       | priyankathedecoder@gmail.com               |
-| Premnath                | @Premnath      | batchaamadan17@gmail.com                   |
-| Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  |
-| Sneha Das               | @Snehabioinfo  | snneha26@gmail.com                         |
-| Priyanka Mishra         | @Priyanka      | priyankam9998@gmail.com                    |
-| Isha Barve              | @WandaMaximoff | isha.barve0@gmail.com                      |
-| Morali Shah             | @morali        | shahmorali@gmail.com                       |
-| Akanksha Kulkarni       | @MoonlitRose99 | gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in |
-| Kartik A. Sawant        | @Venomm        | kartikatulsawant14@gmail.com               |
-| Devika Kaliana          | @BARBARELLA    | devikakaliana94@gmail.com                  |
-| Aishatu Muhammad Malami | @AishatuMM     | ummiamal@gmail.com                         |
-| Halak Shukla            | @Halak         | halakshukla0101@gmail.com                  |
-| Lakshini Kannan         | @Lakshini      | lakshinikannan@gmail.com                   |
-| Prathyusha Cota         | @Prathyusha    | Prathyushacota@gmail.com                   |
-| Shabnam S               | @Shabnam       | shab31201@gmail.com                        |
-| Rafat Omar              | @RafatOmar     | rafat.0mar@outlook.com                     |
-| Marwa Amer              | @Marwa         | marwa.amer@must.edu.eg                     |
-| Nadeen Esmail           | @Nadeen        | nadeenesmail4@gmail.com                    |
-| Ojonugwa Abubakar       | @ojay          | otabu01@gmail.com                          |
+| Name                    | Slack ID       | Email Id (Galaxy)                          | Datasets                | Task performed          |
+|-------------------------|----------------|--------------------------------------------|-------------------------|-------------------------|
+| Priyanka Singh          | @Decoder       | priyankathedecoder@gmail.com               | RB03 & RB04	          | Workflow, PlasFlow, staramr, CARD database, GitHub|
+| Premnath                | @Premnath      | batchaamadan17@gmail.com                   | RB05 & RB06	          | Bandage image, Unicycler, Github|
+| Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  | RB03 & RB04	          | NanoPlot, Importing data |
+| Sneha Das               | @Snehabioinfo  | snneha26@gmail.com                         | RB03 & RB04	          | minimap2, Miniasm|
+| Priyanka Mishra         | @Priyanka      | priyankam9998@gmail.com                    | RB03 & RB04	          | Bandage image, Unicycler|
+| Isha Barve              | @WandaMaximoff | isha.barve0@gmail.com                      | RB01 & RB02	          | GFA to Fasta, minimap2, Miniasm, Importing data|
+| Morali Shah             | @morali        | shahmorali@gmail.com                       | RB01 & RB02	          | PlasFlow|
+| Akanksha Kulkarni       | @MoonlitRose99 | gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in | RB01 & RB02	          | minimap2|
+| Kartik A. Sawant        | @Venomm        | kartikatulsawant14@gmail.com               | RB01 & RB02	          | Racon, CARD database|
+| Devika Kaliana          | @BARBARELLA    | devikakaliana94@gmail.com                  | RB01 & RB02	          | Bandage image, staramr|
+| Aishatu Muhammad Malami | @AishatuMM     | ummiamal@gmail.com                         | RB03 & RB04	          | GFA to Fasta, minimap2, Racon|
+| Halak Shukla            | @Halak         | halakshukla0101@gmail.com                  | RB05 & RB06	          | NanoPlot, Importing data|
+| Lakshini Kannan         | @Lakshini      | lakshinikannan@gmail.com                   | RB05 & RB06	          | minimap2, Miniasm|
+| Prathyusha Cota         | @Prathyusha    | Prathyushacota@gmail.com                   | RB05 & RB06	          | GFA to Fasta, minimap2, Racon|
+| Shabnam S               | @Shabnam       | shab31201@gmail.com                        | RB05 & RB06	          | PlasFlow, staramr, CARD database, GitHub|
+| Rafat Omar              | @RafatOmar     | rafat.0mar@outlook.com                     | RB07 & RB08	          | minimap2, Nanoplot, Importing data|
+| Marwa Amer              | @Marwa         | marwa.amer@must.edu.eg                     | RB07 & RB08	          | GFA to Fasta, minimap2, Racon|
+| Nadeen Esmail           | @Nadeen        | nadeenesmail4@gmail.com                    | RB07 & RB08	          | Bandage image, Unicycler, Plasflow|
+| Ojonugwa Abubakar       | @ojay          | otabu01@gmail.com                          | RB07 & RB08	          | staramr, CARD database|
+	
+	
+## Result
+	
+- RB01 & RB02: https://usegalaxy.eu/u/priyankathedecoder/w/workflow-constructed-from-history-isha-sub-group-team-metagenomics-a
+- RB03 & RB04: https://usegalaxy.eu/u/priyankathedecoder/w/workflow-constructed-from-history-rishikesh-sub-team
+- RB05 & RB06: https://usegalaxy.eu/u/priyankathedecoder/w/workflow-constructed-from-history-premnath-sub-team-metagenomics-a
+- RB07 & RB08: https://usegalaxy.eu/u/priyankathedecoder/w/workflow-constructed-from-history-ojonugwa-sub-team-metagenomics-a
+
  
 Thank you for your patience and time!
 Have a great day!🤗
