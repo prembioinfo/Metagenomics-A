@@ -183,7 +183,7 @@ We created 4 subgroups to distribute the analysis of the total 8 datasets. The d
 |-------------------------|----------------|--------------------------------------------|-------------------------|-------------------------|
 | Priyanka Singh          | @Decoder       | priyankathedecoder@gmail.com               | RB03 & RB04	          | Workflow, PlasFlow, staramr, CARD database, GitHub|
 | Premnath                | @Premnath      | batchaamadan17@gmail.com                   | RB05 & RB06	          | Bandage image, Unicycler, Github|
-| Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  | RB03 & RB04	          | NanoPlot, Importing data |
+| Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  | RB03 & RB04	          | NanoPlot, Importing data, GitHub |
 | Sneha Das               | @Snehabioinfo  | snneha26@gmail.com                         | RB03 & RB04	          | minimap2, Miniasm|
 | Priyanka Mishra         | @Priyanka      | priyankam9998@gmail.com                    | RB03 & RB04	          | Bandage image, Unicycler|
 | Isha Barve              | @WandaMaximoff | isha.barve0@gmail.com                      | RB01 & RB02	          | GFA to Fasta, minimap2, Miniasm, Importing data|
