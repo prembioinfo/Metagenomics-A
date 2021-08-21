@@ -176,7 +176,7 @@ Click Execute.
 	
 ## Contributors:
 
-We created 4 subgroups to distribute the analysis of the total 8 datasets. The datasets contained raw long sequencing data (reads), sequenced by the Nanopore MinION sequencer, extracted from different MDR plasmid-bearing bacterial strains. (Li et al. 2018) Each subgroup worked with 2 datasets and analysed it following the steps mentioned in the referenced galaxy tutorial. The steps for the analysis was distributed among each member according to the subgroup. **Click here to view the detailed contribution report > [Contributors](https://github.com/prembioinfo/Metagenomics-A/blob/main/Contibution%20details.csv)** / **(https://docs.google.com/spreadsheets/d/134Q7xUCsF2b_8cT4EXj4VLylOvArraN_vLcp5G_0UhI/edit?usp=drivesdk)**
+We created 4 subgroups to distribute the analysis of the total 8 datasets. The datasets contained raw long sequencing data (reads), sequenced by the Nanopore MinION sequencer, extracted from different MDR plasmid-bearing bacterial strains. (Li et al. 2018) Each subgroup worked with 2 datasets and analysed it following the steps mentioned in the referenced galaxy tutorial. The steps for the analysis was distributed among each member according to the subgroup. **Click here to view the detailed contribution report > [Contributors](https://github.com/prembioinfo/Metagenomics-A/blob/main/Contibution%20details.csv)** / **[Excel sheet](https://docs.google.com/spreadsheets/d/134Q7xUCsF2b_8cT4EXj4VLylOvArraN_vLcp5G_0UhI/edit?usp=drivesdk)**
 
   
 | Name                    | Slack ID       | Email Id (Galaxy)                          |
